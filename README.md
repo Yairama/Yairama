@@ -8,6 +8,9 @@
 <p align=center><a href="https://www.twitter.com/Yair3Dimension"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/yairama"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/dyairama/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
 
+<p align=center><img alt="loficity" width="600px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTkxYTc3MGEyMGI5NTYwZDlmNzVhNGM1MWQyOGExMzRkMDcxNTVjYiZjdD1n/Hws7aKoFHS9gs/giphy.gif" ></img></p>
+
+
 <p align=center>
   <div align=center>
     <a href="https://github.com/yairama/" title="Go to Source">
@@ -36,4 +39,4 @@ As an enthusiastic mining engineer and data science aficionado, I've had the ple
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
-<a align=center><img alt="loficity" width="600px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDU4ZWQ5YTNkNzY5ZDdiODg1OGYzZTNmMjlkMWZlMmVlNjU4YzEyNyZjdD1n/VFHa3Kg39gFLVbinN1/giphy.gif" ></img></a>
+<p align=center><img alt="loficity" width="600px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDU4ZWQ5YTNkNzY5ZDdiODg1OGYzZTNmMjlkMWZlMmVlNjU4YzEyNyZjdD1n/VFHa3Kg39gFLVbinN1/giphy.gif" ></img></p>
