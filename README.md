@@ -8,7 +8,7 @@
 <p align=center><a href="https://www.twitter.com/Yair3Dimension"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/yairama"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/dyairama/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
 
-<p align=center><img alt="loficity" width="600px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTkxYTc3MGEyMGI5NTYwZDlmNzVhNGM1MWQyOGExMzRkMDcxNTVjYiZjdD1n/Hws7aKoFHS9gs/giphy.gif" ></img></p>
+<p align=center><img alt="loficity" width="300px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTkxYTc3MGEyMGI5NTYwZDlmNzVhNGM1MWQyOGExMzRkMDcxNTVjYiZjdD1n/Hws7aKoFHS9gs/giphy.gif" ></img></p>
 
 
 <p align=center>
