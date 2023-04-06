@@ -5,6 +5,9 @@
 </h1>
 
 
+<p align=center><a href="https://www.twitter.com/Yair3Dimension"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/yairama"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/dyairama/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
+
+
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -17,7 +20,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yairama&hide=c%23,powershell,Javascript,HTML,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yairama&hide=c%23,SCSS,Javascript,HTML,CSS,CMake,Objective-C%2b%2b&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
