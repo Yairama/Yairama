@@ -29,3 +29,9 @@
 
  <a href="https://github.com/yairama/"><img alt="Yairama's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=yairama&theme=high-contrast&bg_color=20232a&line=e28514"/></a>
 
+
+### ✨&nbsp; About Me
+
+As an enthusiastic mining engineer and data science aficionado, I've had the pleasure of being part of exciting projects like Fleet Match, where I helped match the perfect mining vehicles for optimal operations. From surface to underground mining, I've honed my skills in rock blasting, fleet dispatch, and more. But my expertise doesn't stop there! I'm also a tech-savvy polymath with a passion for programming in Python, Java, C++, and diving into 3D development using OpenGL and Vulkan. I've even ventured into the realm of predictive modeling, creating fuel, throughput, and production models for the mining industry, and experimenting with AI applications like a self-driving simulator for mining equipment. Always eager to learn and apply my diverse skill set, I'm a researcher-in-training with a thirst for knowledge and a drive to make mining smarter and more efficient. Let's dig into the future of mining with AI and data science!
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
