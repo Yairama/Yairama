@@ -17,13 +17,13 @@
       <img align="left" width=390 src="https://streak-stats.demolab.com?user=Yairama&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&background=20232a&ring=e28514" alt="Yair-Camborda" />
     </a>
     <a href="https://github.com/yairama/" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=yairama&theme=dark&show_icons=true&bg_color=20232a&icon_color=ffffff&ring_color=e28514" />
+      <img align="right" width=390 src="https://github-readme-stats-sigma-five.vercel.app/api?username=yairama&theme=dark&show_icons=true&bg_color=20232a&icon_color=ffffff&ring_color=e28514" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/yairama/">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yairama&hide=c%23,SCSS,Javascript,HTML,CSS,CMake,Objective-C%2b%2b&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yairama&hide=c%23,SCSS,Javascript,HTML,CSS,CMake,Objective-C%2b%2b&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
