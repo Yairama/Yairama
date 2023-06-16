@@ -30,7 +30,7 @@
   
 </p>
 
-[![Yairama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yairama)](https://github.com/Yairama)
+[![Yairama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yairama&theme=high-contrast&bg_color=20232a&line=e28514)](https://github.com/Yairama)
 
 
 ### ✨&nbsp; About Me
