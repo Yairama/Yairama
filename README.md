@@ -30,7 +30,7 @@
   
 </p>
 
- <a href="https://github.com/yairama/"><img alt="Yairama's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=yairama&theme=high-contrast&bg_color=20232a&line=e28514"/></a>
+[![Yairama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yairama)](https://github.com/Yairama)
 
 
 ### ✨&nbsp; About Me
