@@ -21,7 +21,7 @@ It's Yair here, your friendly Data Scientist! I have a blast working on Machine 
 -------------------------
 ### Skills
 
-<p align="left">
+<p align="center">
     <!-- Python -->
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
     <!-- Rust -->
@@ -53,7 +53,7 @@ It's Yair here, your friendly Data Scientist! I have a blast working on Machine 
 
 </p>
 
-<p align="left">
+<p align="center">
     <!-- Java -->
     <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="36" height="36" alt="Java" /></a>
     <!-- PyTorch -->
@@ -67,13 +67,33 @@ It's Yair here, your friendly Data Scientist! I have a blast working on Machine 
     <!-- Kedro -->
     <a href="https://kedro.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/93382166?s=200&v=4" width="36" height="36" alt="Kedro" /></a>
     <!-- Azure -->
-    <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="36" height="36" alt="Azure" /></a>
+    <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" width="36" height="36" alt="Azure" /></a>
     <!-- Databricks -->
-    <a href="https://databricks.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="36" height="36" alt="Databricks" /></a>
+    <a href="https://databricks.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" width="36" height="36" alt="Databricks" /></a>
     <!-- Scala -->
     <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" width="36" height="36" alt="Scala" /></a>
 </p>
 
+<p align="center">
+    <!-- Keras -->
+    <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4" width="36" height="36" alt="Keras" /></a>
+    <!-- Apache Hadoop -->
+    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="36" height="36" alt="Apache Hadoop" /></a>
+    <!-- Apache Spark -->
+    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="36" height="36" alt="Apache Spark" /></a>
+    <!-- Tableau -->
+    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/828667?s=200&v=4" width="36" height="36" alt="Tableau" /></a>
+    <!-- Power BI -->
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/42988494?s=200&v=4" width="36" height="36" alt="Power BI" /></a>
+    <!-- Visual Studio Code -->
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="36" height="36" alt="Visual Studio Code" /></a>
+    <!-- Docker -->
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="36" height="36" alt="Docker" /></a>
+    <!-- Kubernetes -->
+    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="36" height="36" alt="Kubernetes" /></a>
+    <!-- MongoDB -->
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="36" height="36" alt="MongoDB" /></a>
+</p>
 
 
 -------------------------
@@ -90,23 +110,23 @@ It's Yair here, your friendly Data Scientist! I have a blast working on Machine 
 <p align=center>
   <div align=center>
     <a href="https://github.com/yairama/" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com?user=Yairama&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&background=20232a&ring=e28514" alt="Yair-Camborda" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com?user=Yairama&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&background=1c1917&ring=e28514" alt="Yair-Camborda" />
     </a>
     <a href="https://github.com/yairama/" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats-sigma-five.vercel.app/api?username=yairama&theme=dark&show_icons=true&bg_color=20232a&icon_color=ffffff&ring_color=e28514" />
+      <img align="right" width=390 src="https://github-readme-stats-sigma-five.vercel.app/api?username=yairama&show_icons=true&bg_color=1c1917&icon_color=e28514&text_color=ffffff&title_color=e28514" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/yairama/">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yairama&exclude_repo=MPE_Prototype,sso_platform&theme=dracula" alt="Top Langs">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yairama&exclude_repo=MPE_Prototype,sso_platform&theme=dracula&title_color=e28514&bg_color=1c1917" alt="Top Langs">
     </a>
   </div>
   <br>
   
 </p>
 
-[![Yairama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yairama&theme=high-contrast&bg_color=20232a&line=e28514)](https://github.com/Yairama)
+[![Yairama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yairama&theme=high-contrast&bg_color=1c1917&line=e28514)](https://github.com/Yairama)
 
 
 <b>Top Repositories</b>
