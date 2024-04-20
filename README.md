@@ -111,12 +111,12 @@ It's Yair here, your friendly Data Scientist! I have a blast working on Machine 
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Yairama/SAM-Rock-Fragmentation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yairama&repo=SAM-Rock-Fragmentation&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Yairama/vivania_env" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yairama&repo=vivania_env&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a>
+<div width="100%" align="center"><a href="https://github.com/Yairama/SAM-Rock-Fragmentation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yairama&repo=SAM-Rock-Fragmentation&title_color=e28514&text_color=ffffff&icon_color=e28514&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Yairama/vivania_env" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yairama&repo=vivania_env&title_color=e28514&text_color=ffffff&icon_color=e28514&bg_color=1c1917&hide_border=true" /></a>
 </div>
 
 <br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Yairama/3D-Fleet-management-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yairama&repo=3D-Fleet-management-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Yairama/mining-deposit-simulation" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yairama&repo=mining-deposit-simulation&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<div width="100%" align="center"><a href="https://github.com/Yairama/3D-Fleet-management-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yairama&repo=3D-Fleet-management-system&title_color=e28514&text_color=ffffff&icon_color=e28514&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Yairama/mining-deposit-simulation" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yairama&repo=mining-deposit-simulation&title_color=e28514&text_color=ffffff&icon_color=e28514&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 
 <br /><br /><br /><br /><br />
