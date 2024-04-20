@@ -109,6 +109,19 @@ It's Yair here, your friendly Data Scientist! I have a blast working on Machine 
 [![Yairama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yairama&theme=high-contrast&bg_color=20232a&line=e28514)](https://github.com/Yairama)
 
 
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Yairama/SAM-Rock-Fragmentation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yairama&repo=SAM-Rock-Fragmentation&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Yairama/vivania_env" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yairama&repo=vivania_env&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a>
+</div>
+
+<br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Yairama/3D-Fleet-management-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yairama&repo=3D-Fleet-management-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Yairama/mining-deposit-simulation" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yairama&repo=mining-deposit-simulation&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
+
+<br /><br /><br /><br /><br />
+
+
 ### ✨&nbsp; About Me
 
 As a passionate mining engineer and data science enthusiast 🚀, I've thrived in groundbreaking projects like Fleet Match, where I've paired the ideal mining vehicles to maximize efficiency 🏗️. My journey has taken me from surface to the depths of underground mining, mastering rock blasting, fleet dispatch, and beyond. But there’s more to me! I'm a tech wizard 🧙‍♂️ who loves coding in Python, Java, C++, and exploring 3D development with tools like OpenGL and Vulkan.
