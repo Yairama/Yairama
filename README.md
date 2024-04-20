@@ -139,7 +139,7 @@ It's Yair here, your friendly Data Scientist! I have a blast working on Machine 
 <div width="100%" align="center"><a href="https://github.com/Yairama/3D-Fleet-management-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yairama&repo=3D-Fleet-management-system&title_color=e28514&text_color=ffffff&icon_color=e28514&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Yairama/mining-deposit-simulation" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yairama&repo=mining-deposit-simulation&title_color=e28514&text_color=ffffff&icon_color=e28514&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
 
 
 ### ✨&nbsp; About Me
