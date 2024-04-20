@@ -78,6 +78,8 @@ It's Yair here, your friendly Data Scientist! I have a blast working on Machine 
 
 -------------------------
 
+### Some Statistics 👨‍💻
+
 <p align=center><a href="https://www.twitter.com/Yair3Dimension"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/yairama"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/dyairama/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
 
@@ -97,7 +99,7 @@ It's Yair here, your friendly Data Scientist! I have a blast working on Machine 
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/yairama/">
-      <img width=325 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yairama&hide=c%23,SCSS,Javascript,HTML,CSS,CMake,Objective-C%2b%2b&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yairama&exclude_repo=MPE_Prototype,sso_platform&theme=dracula" alt="Top Langs">
     </a>
   </div>
   <br>
@@ -109,8 +111,8 @@ It's Yair here, your friendly Data Scientist! I have a blast working on Machine 
 
 ### ✨&nbsp; About Me
 
-As an enthusiastic mining engineer and data science aficionado, I've had the pleasure of being part of exciting projects like Fleet Match, where I helped match the perfect mining vehicles for optimal operations. From surface to underground mining, I've honed my skills in rock blasting, fleet dispatch, and more. But my expertise doesn't stop there! I'm also a tech-savvy polymath with a passion for programming in Python, Java, C++, and diving into 3D development using OpenGL and Vulkan. I've even ventured into the realm of predictive modeling, creating fuel, throughput, and production models for the mining industry, and experimenting with AI applications like a self-driving simulator for mining equipment. Always eager to learn and apply my diverse skill set, I'm a researcher-in-training with a thirst for knowledge and a drive to make mining smarter and more efficient. Let's dig into the future of mining with AI and data science!
+As a passionate mining engineer and data science enthusiast 🚀, I've thrived in groundbreaking projects like Fleet Match, where I've paired the ideal mining vehicles to maximize efficiency 🏗️. My journey has taken me from surface to the depths of underground mining, mastering rock blasting, fleet dispatch, and beyond. But there’s more to me! I'm a tech wizard 🧙‍♂️ who loves coding in Python, Java, C++, and exploring 3D development with tools like OpenGL and Vulkan.
 
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+Venturing further, I’ve crafted predictive models for fuel usage, throughput, and production in the mining sector, and even dabbled in AI, developing a self-driving simulator for mining equipment. As a researcher with an insatiable curiosity, I'm all about leveraging my versatile skills to revolutionize mining with smarter techniques and AI integration. Let’s pave the way for a smarter future in mining with AI and data science! ⛏️👨‍💻 Let's innovate together!
 
 <p align=center><img alt="loficity" width="600px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDU4ZWQ5YTNkNzY5ZDdiODg1OGYzZTNmMjlkMWZlMmVlNjU4YzEyNyZjdD1n/VFHa3Kg39gFLVbinN1/giphy.gif" ></img></p>
