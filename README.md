@@ -6,7 +6,7 @@
 
 ------------------------
 
-## Senior Data Scientist
+## Data Scientist
 
 ------------------------
 
