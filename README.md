@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/yairama">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello+there+👋;This+is+Yair+Camborda...;Thanks+for+visiting+me!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello+there+👋;This+is+Yair+Camborda...;Thanks+for+visiting+me!">
   </a>
 </h1>
 
