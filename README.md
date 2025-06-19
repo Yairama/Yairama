@@ -12,7 +12,7 @@
 
 Hello there! 😊
 
-It's Yair here, your friendly Data Scientist! I have a blast working on Machine Learning, Data Science, and Data Analysis projects. But most of all, I absolutely love programming! 🚀👨‍💻
+It's Yair here, your friendly Tech Friend! I have a blast working on Machine Learning, Data Science, and Data Analysis projects. But most of all, I absolutely love programming! 🚀👨‍💻
 
 * 📍 I'm based in the vibrant city of Lima, Peru!
 * 💼 Check out my portfolio (coming soon!)
