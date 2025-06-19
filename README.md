@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/yairama">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello+there+👋;This+is+Yair+Camborda...;Thanks+for+visiting+me!">
-  </a>
+<a href="https://github.com/Yairama"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=40&pause=1000&color=E28514&center=true&vCenter=true&width=600&height=100&lines=Hello+There%F0%9F%91%8B;This+is+Yair+Camborda;Thanks+for+visiting+me!" alt="Typing SVG" /></a>
 </h1>
 
 ------------------------
