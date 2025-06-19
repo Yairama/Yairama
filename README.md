@@ -6,7 +6,7 @@
 
 ------------------------
 
-## Data Scientist
+## Senior Machine Learning Engineer & Data Scientist
 
 ------------------------
 
