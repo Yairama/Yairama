@@ -4,7 +4,7 @@
 
 ------------------------
 
-## AI Expert | Senior Machine Learning Engineer & Data Scientist
+## Senior AI Engineer
 
 ------------------------
 
