@@ -37,7 +37,8 @@ class YairCamborda:
         self.location   = "Lima, Peru 🇵🇪"
         self.website    = "https://yairama.dev"
         self.education  = ["MIT (edX)", "National University of Engineering"]
-        self.cats       = 8  # 🐱 yes, EIGHT!
+        self.cats       = ["Frida", "Lara", "Ekko", "Gaia",
+                           "Osiris", "Ganesha", "Caliope", "Freyja"]  # 🐱 the bosses
 
     def current_focus(self):
         return [
@@ -246,7 +247,7 @@ Real-time **3D visualization system** for fleet management operations with inter
   /\_/\    /\_/\    /\_/\    /\_/\    /\_/\    /\_/\    /\_/\    /\_/\
  ( o.o )  ( -.-)  ( ^.^)  ( o.o )  ( >.< )  ( =.=)  ( o.o )  ( ^.^)
   > ^ <    > ^ <    > ^ <    > ^ <    > ^ <    > ^ <    > ^ <    > ^ <
-  Cat 1    Cat 2    Cat 3    Cat 4    Cat 5    Cat 6    Cat 7    Cat 8
+ Frida     Lara     Ekko    Gaia   Osiris  Ganesha Caliope  Freyja
 ```
 
 > 🧡 *"In my house, the cats outnumber the humans. They approve all my pull requests."*
