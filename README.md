@@ -121,7 +121,7 @@ impl YairCamborda {
 
 ![Godot](https://img.shields.io/badge/Godot-E28514?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FF6B35?style=for-the-badge&logo=unity&logoColor=white)
-![React](https://img.shields.io/badge/React-F4A261?style=for-the-badge&logo=react&logoColor=white)
+![Bevy](https://img.shields.io/badge/Bevy-F4A261?style=for-the-badge&logo=bevy&logoColor=white)
 
 </div>
 
