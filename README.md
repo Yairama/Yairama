@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E28514,50:FF6B35,100:F4A261&height=220&section=header&text=Yair%20Camborda&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Senior%20AI%20Engineer%20%F0%9F%A4%96%20%7C%20Cat%20Dad%20x8%20%F0%9F%90%B1&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="header" />
+<a href="https://www.linkedin.com/in/yairama" target="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:E28514,50:FF6B35,100:F4A261&height=220&section=header&text=Yair%20Camborda&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Senior%20AI%20Engineer%20%F0%9F%A4%96%20%7C%20Cat%20Dad%20x8%20%F0%9F%90%B1&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="header" /></a>
 
 <!-- Typing SVG -->
 <a href="https://github.com/Yairama">
@@ -293,6 +293,6 @@ Real-time **3D visualization system** for fleet management operations with inter
 <br/><br/>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E28514,50:FF6B35,100:F4A261&height=120&section=footer" width="100%" alt="footer"/>
+<a href="https://www.linkedin.com/in/yairama" target="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:E28514,50:FF6B35,100:F4A261&height=120&section=footer" width="100%" alt="footer" /></a>
 
 </div>
