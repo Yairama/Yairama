@@ -11,8 +11,8 @@
 <br/>
 
 <!-- Social Badges - Orange themed -->
-<a href="https://yairama.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-yairama.dev-E28514?style=for-the-badge&labelColor=1c1917" alt="Portfolio"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/yairama"><img src="https://img.shields.io/badge/LinkedIn-Yairama-E28514?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1c1917" alt="LinkedIn"/></a>&nbsp;
+<a href="https://yairama.dev"><img src="https://custom-icon-badges.demolab.com/badge/🚀_Portfolio-yairama.dev-E28514?style=for-the-badge&labelColor=E28514&logoColor=white" alt="Portfolio"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/yairama"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Yairama-E28514?style=for-the-badge&logo=linkedin-white&labelColor=E28514&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="mailto:yairoriginal@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-FF6B35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1917" alt="Email"/></a>&nbsp;
 <a href="https://www.instagram.com/dyairama/"><img src="https://img.shields.io/badge/Instagram-@dyairama-F4A261?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1c1917" alt="Instagram"/></a>
 
@@ -27,35 +27,50 @@
 <!-- Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c1917,50:E28514,100:1c1917&height=2" width="100%" alt="divider"/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+## 🦀 &nbsp;About Me
 
-```python
-class YairCamborda:
-    def __init__(self):
-        self.name       = "Yair Camborda"
-        self.role       = "Senior AI Engineer"
-        self.location   = "Lima, Peru 🇵🇪"
-        self.website    = "https://yairama.dev"
-        self.education  = ["MIT (edX)", "National University of Engineering"]
-        self.cats       = ["Frida", "Lara", "Ekko", "Gaia",
-                           "Osiris", "Ganesha", "Caliope", "Freyja"]  # 🐱 the bosses
+```rust
+struct YairCamborda {
+    name:      &'static str,
+    role:      &'static str,
+    location:  &'static str,
+    website:   &'static str,
+    education: Vec<&'static str>,
+    cats:      Vec<&'static str>,  // 🐱 the bosses
+}
 
-    def current_focus(self):
-        return [
+impl YairCamborda {
+    fn new() -> Self {
+        Self {
+            name:      "Yair Camborda",
+            role:      "Senior AI Engineer",
+            location:  "Lima, Peru 🇵🇪",
+            website:   "https://yairama.dev",
+            education: vec!["MIT (edX)", "National University of Engineering"],
+            cats:      vec!["Frida", "Lara", "Ekko", "Gaia",
+                            "Osiris", "Ganesha", "Caliope", "Freyja"],
+        }
+    }
+
+    fn current_focus(&self) -> Vec<&str> {
+        vec![
             "🤖 Multi-Agent AI Systems",
             "🧠 Deep Learning & Reinforcement Learning",
             "⚡ ML Pipelines at Scale (Databricks, Spark)",
             "🦀 High-performance tooling in Rust",
             "🎮 AI for Simulation & 3D Environments",
         ]
+    }
 
-    def fun_facts(self):
-        return [
+    fn fun_facts(&self) -> Vec<&str> {
+        vec![
             "From $16M production increases to award-winning AI solutions",
             "I dream in Python and think in Rust 🦀",
             "My 8 cats are my best rubber-duck debuggers 🐱",
             "I build AI that makes real-world impact",
         ]
+    }
+}
 ```
 
 <br/>
