@@ -1,147 +1,282 @@
-<h1 align="center">
-<a href="https://github.com/Yairama"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=40&pause=1000&color=E28514&center=true&vCenter=true&width=600&height=100&lines=Hello+There%F0%9F%91%8B;This+is+Yair+Camborda;Thanks+for+visiting+me!" alt="Typing SVG" /></a>
-</h1>
+<div align="center">
 
-------------------------
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E28514,50:FF6B35,100:F4A261&height=220&section=header&text=Yair%20Camborda&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Senior%20AI%20Engineer%20%F0%9F%A4%96%20%7C%20Cat%20Dad%20x8%20%F0%9F%90%B1&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="header" />
 
-## Senior AI Engineer
+<!-- Typing SVG -->
+<a href="https://github.com/Yairama">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E28514&center=true&vCenter=true&multiline=true&width=700&height=80&lines=%F0%9F%91%8B+Hello+there!+Welcome+to+my+corner+of+GitHub;Building+intelligent+systems+%7C+Powered+by+%E2%98%95+%26+%F0%9F%90%B1" alt="Typing SVG" />
+</a>
 
-------------------------
+<br/>
 
-Hello there! 😊
+<!-- Social Badges - Orange themed -->
+<a href="https://yairama.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-yairama.dev-E28514?style=for-the-badge&labelColor=1c1917" alt="Portfolio"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/yairama"><img src="https://img.shields.io/badge/LinkedIn-Yairama-E28514?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1c1917" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:yairoriginal@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-FF6B35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1917" alt="Email"/></a>&nbsp;
+<a href="https://www.instagram.com/dyairama/"><img src="https://img.shields.io/badge/Instagram-@dyairama-F4A261?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1c1917" alt="Instagram"/></a>
 
-It's Yair here, your friendly Tech Friend! I have a blast working on AI Stuff. But most of all, I absolutely love programming! 🚀👨‍💻
+<br/>
 
-* 📍 I'm based in the vibrant city of Lima, Peru!
-* 💼 Check out my portfolio [Yairama.dev](https://yairama.dev)
-* 📧 Feel free to reach out to me at [yairoriginal@gmail.com](mailto:yairoriginal@gmail.com)
+<img src="https://img.shields.io/badge/📍_Lima,_Peru-1c1917?style=flat-square&labelColor=1c1917" alt="Location"/>
+<img src="https://img.shields.io/badge/🐱_Proud_dad_of_8_cats-1c1917?style=flat-square&labelColor=1c1917" alt="Cats"/>
+<img src="https://komarev.com/ghpvc/?username=Yairama&style=flat-square&color=E28514&label=Profile+Views" alt="Profile Views"/>
 
--------------------------
-### Skills
-
-<p align="center">
-    <!-- Python -->
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-    <!-- Rust -->
-    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="36" height="36" alt="Rust" /></a>
-    <!-- R -->
-    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R" /></a>
-    <!-- Git -->
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-    <!-- Fast API -->
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-    <!-- MySQL -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-    <!-- PostgreSQL -->
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-    <!-- Heroku -->
-    <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-    <!-- TensorFlow -->
-    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" height="36" alt="TensorFlow" /></a>
-    <!-- React -->
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-    <!-- C++ -->
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-    <!-- Jupyter -->
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="36" height="36" alt="Jupyter" /></a>
-    <!-- Scikit-learn -->
-    
-
-</p>
-
-<p align="center">
-    <!-- Java -->
-    <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="36" height="36" alt="Java" /></a>
-    <!-- PyTorch -->
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36" height="36" alt="PyTorch" /></a>
-    <!-- C# -->
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="36" height="36" alt="C#" /></a>
-    <!-- Godot -->
-    <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" width="36" height="36" alt="Godot" /></a>
-    <!-- Unity -->
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="36" height="36" alt="Unity" /></a>
-    <!-- Kedro -->
-    <a href="https://kedro.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/93382166?s=200&v=4" width="36" height="36" alt="Kedro" /></a>
-    <!-- Azure -->
-    <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" width="36" height="36" alt="Azure" /></a>
-    <!-- Databricks -->
-    <a href="https://databricks.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" width="36" height="36" alt="Databricks" /></a>
-    <!-- Scala -->
-    <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" width="36" height="36" alt="Scala" /></a>
-</p>
-
-<p align="center">
-    <!-- Keras -->
-    <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4" width="36" height="36" alt="Keras" /></a>
-    <!-- Apache Hadoop -->
-    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="36" height="36" alt="Apache Hadoop" /></a>
-    <!-- Apache Spark -->
-    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="36" height="36" alt="Apache Spark" /></a>
-    <!-- Tableau -->
-    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/828667?s=200&v=4" width="36" height="36" alt="Tableau" /></a>
-    <!-- Power BI -->
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/42988494?s=200&v=4" width="36" height="36" alt="Power BI" /></a>
-    <!-- Visual Studio Code -->
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="36" height="36" alt="Visual Studio Code" /></a>
-    <!-- Docker -->
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="36" height="36" alt="Docker" /></a>
-    <!-- Kubernetes -->
-    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="36" height="36" alt="Kubernetes" /></a>
-    <!-- MongoDB -->
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="36" height="36" alt="MongoDB" /></a>
-</p>
-
-
--------------------------
-
-### Some Statistics 👨‍💻
-
-<a href="https://www.linkedin.com/in/yairama"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/dyairama/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
-
-
-
-<p align=center><img alt="loficity" width="300px" src="https://i.pinimg.com/originals/0f/51/b5/0f51b5acc3fced843aef86973189af41.gif" ></img></p>
-
-
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/yairama/" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com?user=Yairama&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&background=1c1917&ring=e28514" alt="Yair-Camborda" />
-    </a>
-    <a href="https://github.com/yairama/" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats-sigma-five.vercel.app/api?username=yairama&show_icons=true&bg_color=1c1917&icon_color=e28514&text_color=ffffff&title_color=e28514" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/yairama/">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yairama&exclude_repo=MPE_Prototype,sso_platform&theme=dracula&title_color=e28514&bg_color=1c1917" alt="Top Langs">
-    </a>
-  </div>
-  <br>
-  
-</p>
-
-[![Yairama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yairama&theme=high-contrast&bg_color=1c1917&line=e28514)](https://github.com/Yairama)
-
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Yairama/SAM-Rock-Fragmentation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yairama&repo=SAM-Rock-Fragmentation&title_color=e28514&text_color=ffffff&icon_color=e28514&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Yairama/vivania_env" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yairama&repo=vivania_env&title_color=e28514&text_color=ffffff&icon_color=e28514&bg_color=1c1917&hide_border=true" /></a>
 </div>
 
-<br /><br /><br /><br /><br /><br /><br />
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c1917,50:E28514,100:1c1917&height=2" width="100%" alt="divider"/>
 
-<div width="100%" align="center"><a href="https://github.com/Yairama/3D-Fleet-management-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yairama&repo=3D-Fleet-management-system&title_color=e28514&text_color=ffffff&icon_color=e28514&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Yairama/mining-deposit-simulation" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yairama&repo=mining-deposit-simulation&title_color=e28514&text_color=ffffff&icon_color=e28514&bg_color=1c1917&hide_border=true&locale=en" /></a>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+
+```python
+class YairCamborda:
+    def __init__(self):
+        self.name       = "Yair Camborda"
+        self.role       = "Senior AI Engineer"
+        self.location   = "Lima, Peru 🇵🇪"
+        self.website    = "https://yairama.dev"
+        self.education  = ["MIT (edX)", "National University of Engineering"]
+        self.cats       = 8  # 🐱 yes, EIGHT!
+
+    def current_focus(self):
+        return [
+            "🤖 Multi-Agent AI Systems",
+            "🧠 Deep Learning & Reinforcement Learning",
+            "⚡ ML Pipelines at Scale (Databricks, Spark)",
+            "🦀 High-performance tooling in Rust",
+            "🎮 AI for Simulation & 3D Environments",
+        ]
+
+    def fun_facts(self):
+        return [
+            "From $16M production increases to award-winning AI solutions",
+            "I dream in Python and think in Rust 🦀",
+            "My 8 cats are my best rubber-duck debuggers 🐱",
+            "I build AI that makes real-world impact",
+        ]
+```
+
+<br/>
+
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c1917,50:E28514,100:1c1917&height=2" width="100%" alt="divider"/>
+
+## 🛠️ &nbsp;Tech Stack
+
+<div align="center">
+
+### 🧠 AI / ML
+
+![Python](https://img.shields.io/badge/Python-E28514?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-E28514?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-F4A261?style=for-the-badge&logo=keras&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/Scikit--Learn-E28514?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FF6B35?style=for-the-badge&logo=jupyter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-F4A261?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 💻 Languages
+
+![Rust](https://img.shields.io/badge/Rust-E28514?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-FF6B35?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F4A261?style=for-the-badge&logo=openjdk&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-E28514?style=for-the-badge&logo=scala&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-FF6B35?style=for-the-badge&logo=csharp&logoColor=white)
+![R](https://img.shields.io/badge/R-F4A261?style=for-the-badge&logo=r&logoColor=white)
+
+### ☁️ Cloud & Data
+
+![Azure](https://img.shields.io/badge/Azure-E28514?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-F4A261?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-E28514?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF6B35?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-F4A261?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🗄️ Databases & APIs
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E28514?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FF6B35?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-F4A261?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-E28514?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🎮 Game Dev & 3D
+
+![Godot](https://img.shields.io/badge/Godot-E28514?style=for-the-badge&logo=godotengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FF6B35?style=for-the-badge&logo=unity&logoColor=white)
+![React](https://img.shields.io/badge/React-F4A261?style=for-the-badge&logo=react&logoColor=white)
+
 </div>
 
-<br /><br /><br /><br /><br /><br /><br />
+<br/>
 
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c1917,50:E28514,100:1c1917&height=2" width="100%" alt="divider"/>
 
-### ✨&nbsp; About Me
+## 🚀 &nbsp;Featured Projects
 
-As a passionate mining engineer and data science enthusiast 🚀, I've thrived in groundbreaking projects like Fleet Match, where I've paired the ideal mining vehicles to maximize efficiency 🏗️. My journey has taken me from surface to the depths of underground mining, mastering rock blasting, fleet dispatch, and beyond. But there’s more to me! I'm a tech wizard 🧙‍♂️ who loves coding in Python, Java, C++, and exploring 3D development with tools like OpenGL and Vulkan.
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Venturing further, I’ve crafted predictive models for fuel usage, throughput, and production in the mining sector, and even dabbled in AI, developing a self-driving simulator for mining equipment. As a researcher with an insatiable curiosity, I'm all about leveraging my versatile skills to revolutionize mining with smarter techniques and AI integration. Let’s pave the way for a smarter future in mining with AI and data science! ⛏️👨‍💻 Let's innovate together!
+### <a href="https://github.com/Yairama/SAM-Rock-Fragmentation">🔬 SAM Rock Fragmentation</a>
+<a href="https://github.com/Yairama/SAM-Rock-Fragmentation"><img src="https://img.shields.io/github/stars/Yairama/SAM-Rock-Fragmentation?style=for-the-badge&color=E28514&labelColor=1c1917" alt="Stars"/></a>
 
-<p align=center><img alt="loficity" width="600px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDU4ZWQ5YTNkNzY5ZDdiODg1OGYzZTNmMjlkMWZlMmVlNjU4YzEyNyZjdD1n/VFHa3Kg39gFLVbinN1/giphy.gif" ></img></p>
+Computer vision pipeline using **Meta AI's Segment Anything (SAM)** with custom algorithms to compute blasting fragmentation metrics like P80.
+
+`PyTorch` `OpenCV` `Computer Vision` `Segmentation`
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/Yairama/vivania_env">🎮 Vivania - Fleet Optimization</a>
+<a href="https://github.com/Yairama/vivania_env"><img src="https://img.shields.io/github/stars/Yairama/vivania_env?style=for-the-badge&color=E28514&labelColor=1c1917" alt="Stars"/></a>
+
+AI-powered **fleet optimization environment** with reinforcement learning for autonomous vehicle dispatch and route planning.
+
+`Reinforcement Learning` `Simulation` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/Yairama/3D-Fleet-management-system">🚛 3D Fleet Management</a>
+<a href="https://github.com/Yairama/3D-Fleet-management-system"><img src="https://img.shields.io/github/stars/Yairama/3D-Fleet-management-system?style=for-the-badge&color=E28514&labelColor=1c1917" alt="Stars"/></a>
+
+Real-time **3D visualization system** for fleet management operations with interactive monitoring and dispatch control.
+
+`3D Graphics` `OpenGL` `Rust` `Real-time`
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/Yairama/mining-deposit-simulation">⛏️ Deposit Simulation</a>
+<a href="https://github.com/Yairama/mining-deposit-simulation"><img src="https://img.shields.io/github/stars/Yairama/mining-deposit-simulation?style=for-the-badge&color=E28514&labelColor=1c1917" alt="Stars"/></a>
+
+**Geostatistical simulation engine** for ore body modeling using advanced interpolation and stochastic methods.
+
+`Geostatistics` `Simulation` `Python` `3D`
+
+</td>
+</tr>
+</table>
+
+<a href="https://github.com/Yairama?tab=repositories">
+  <img src="https://img.shields.io/badge/🔍_See_all_repositories-E28514?style=for-the-badge&labelColor=1c1917" alt="All Repos"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c1917,50:E28514,100:1c1917&height=2" width="100%" alt="divider"/>
+
+## 🏆 &nbsp;Highlights
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/💰-$16M-E28514?style=flat-square&labelColor=1c1917" alt="$16M"/><br/>
+<b>Production Impact</b><br/>
+<sub>Real-world value created</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🏅-Award_Winner-FF6B35?style=flat-square&labelColor=1c1917" alt="Awards"/><br/>
+<b>Award-Winning AI</b><br/>
+<sub>Recognized solutions</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🚀-15+-F4A261?style=flat-square&labelColor=1c1917" alt="Projects"/><br/>
+<b>Major Projects</b><br/>
+<sub>From innumerable ones</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🐱-x8-E28514?style=flat-square&labelColor=1c1917" alt="Cats"/><br/>
+<b>Cat Overlords</b><br/>
+<sub>Best debugging partners</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c1917,50:E28514,100:1c1917&height=2" width="100%" alt="divider"/>
+
+## 📊 &nbsp;GitHub Activity
+
+<div align="center">
+
+<!-- Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yairama/Yairama/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yairama/Yairama/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Yairama/Yairama/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<a href="https://github.com/Yairama">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yairama&bg_color=1c1917&color=E28514&line=FF6B35&point=F4A261&area_color=E28514&area=true&hide_border=true&custom_title=🔥%20Contribution%20Graph" width="95%" alt="Activity Graph"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c1917,50:E28514,100:1c1917&height=2" width="100%" alt="divider"/>
+
+## 🐱 &nbsp;Cat Tax
+
+<div align="center">
+
+*Because no README is complete without acknowledging the real bosses*
+
+```
+  /\_/\    /\_/\    /\_/\    /\_/\    /\_/\    /\_/\    /\_/\    /\_/\
+ ( o.o )  ( -.-)  ( ^.^)  ( o.o )  ( >.< )  ( =.=)  ( o.o )  ( ^.^)
+  > ^ <    > ^ <    > ^ <    > ^ <    > ^ <    > ^ <    > ^ <    > ^ <
+  Cat 1    Cat 2    Cat 3    Cat 4    Cat 5    Cat 6    Cat 7    Cat 8
+```
+
+> 🧡 *"In my house, the cats outnumber the humans. They approve all my pull requests."*
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c1917,50:E28514,100:1c1917&height=2" width="100%" alt="divider"/>
+
+<div align="center">
+
+### 💬 &nbsp;Let's Connect!
+
+<br/>
+
+**Got an idea? Want to collaborate? Or just want to see cat pics?** 🐱
+
+<a href="https://yairama.dev">
+  <img src="https://img.shields.io/badge/🚀_Let's_Build_Something_Amazing-E28514?style=for-the-badge&labelColor=1c1917" alt="Let's Connect"/>
+</a>
+
+<br/><br/>
+
+<sub>💻 Eat, Sleep, Code, Repeat! — with 8 cats on the keyboard 🐾</sub>
+
+<br/><br/>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E28514,50:FF6B35,100:F4A261&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
